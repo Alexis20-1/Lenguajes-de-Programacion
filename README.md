@@ -1,6 +1,6 @@
 # Lenguajes-de-Programacion
 
-## 🎯 Objetivo
+##  Objetivo
 
 El objetivo de este repositorio es:
 
